@@ -1,0 +1,61 @@
+    1  python3 --version
+    2  pwd
+    3  ls
+    4  ls-a
+    5  ls -a
+    6  ls -l
+    7  pwd
+    8  mkdir coding-cafe
+    9  pwd
+   10  mkdir coding-cafe/week01
+   11  mkdir coding-cafe/week02
+   12  touch coding-cafe/week02/notes.md
+   13  nano coding-cafe/week02/notes.md
+   14  pwd
+   15  ls
+   16  cd ~
+   17  pwd
+   18  ls
+   19  ls -a
+   20  bash
+   21  pwd
+   22  ls
+   23  ls -a
+   24  ls -l
+   25  nano coding-cafe/week02/notes.md
+   26  cd
+   27  ls -l
+   28  ls
+   29  ls -a
+   30  nano coding-cafe/week02/notes.md
+   31  cp notes.md /mnt/c/Users/Mannat
+   32  cp notes.md /mnt/c/Users/Mannat/downloads
+   33  history>lab01-log.txt
+   34  cat lab01-log.txt
+   35  pip
+   36  pip list
+   37  pip install request
+   38  pip install requests
+   39  pip list
+   40  echo $PATH
+   41  which python3
+   42  which pip
+   43  which ls
+   44  pyton3
+   45  cd coding-cafe
+   46  python3 -m venv venv.
+   47  sudo apt install python3.14-venv -y
+   48  sudo apt update
+   49  sudo apt install python3.14-venv -y
+   50  source .venv/bin/activate
+   51  python3 -m venv .venv
+   52  source .venv/bin/activate
+   53  history>lab01-log.txt
+   54  cp history>lab01-log.txt /mnt/c/Users/mannat/Desktop/
+   55  cp 'history>lab01-log.txt' /mnt/c/Users/mannat/Desktop/
+   56  ls
+   57  cp lab01-log.txt /mnt/c/Users/mannat/Desktop/
+   58  cp notes.md /mnt/c/Users/mannat/Desktop/
+   59  cp week02/notes.md /mnt/c/Users/mannat/Desktop/
+   60  history -w
+   61  history > lab01-log.txt
