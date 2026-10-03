@@ -13,3 +13,15 @@
 7. Git printed [master (root-commit) 4388021] Lab work so far. It said 4 files changed, 101 insertions.
 
 8. The first seven characters (4388021) are the short commit ID, also called the hash. They are used to point to that exact commit.
+
+9. The four steps were git status to see what changed, git add to stage the file, git commit to save it, and git log --oneline to see the commits.
+
+10. README.md has a special name and place because GitHub shows it on the front page of the repository. It is the first thing a visitor sees.
+
+11. gh auth login logged me in to GitHub through the browser and saved my login on my computer. Git can now push without asking for a password.
+
+12. The front page shows my files, and below them the README shown as formatted text (Coding Café, Lab work for Coding Café, FM102). GitHub shows README.md there because it is the file that introduces the project.
+
+13. No. git log --oneline showed the same three commits with the same codes after the push. The only new thing was origin/main next to the latest commit. The label changing from master to main came from git branch -m main, not from the push.
+
+14. A private repository exists on GitHub, but only I and the people I invite can see it. If it did not exist on GitHub at all, there would be nothing online to share with the TAs.
